@@ -5,3 +5,6 @@
 
 ### Have Suggestions/Stuff to add?
 > Creat a [pull request](https://github.com/vantr-o/web-development/pulls) to add anything.
+
+## Contributors:
+> [VANTR-O](https://github.com/vantr-o)
